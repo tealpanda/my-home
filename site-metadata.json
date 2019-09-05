@@ -2,10 +2,10 @@
   "title": "Lambda Blog",
   "palette": "yellow",
   "header": {
-    "title": "Fjord",
-    "tagline": "Minimal and clean blog theme",
+    "title": "Lambda",
+    "tagline": "A programming enthusiast blog.",
     "logo_img": "images/logo.png",
-    "bg_img": "images/header-bg.jpg",
+    "bg_img": "",
     "has_nav": true,
     "has_social": true
   },
